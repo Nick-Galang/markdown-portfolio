@@ -1,1 +1,1 @@
-[GitHu PRofile(https://github.com/Nick-Galang)
+[GitHub PRofile](https://github.com/Nick-Galang)

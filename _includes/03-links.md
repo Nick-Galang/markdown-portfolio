@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHu PRofile(https://github.com/Nick-Galang)
